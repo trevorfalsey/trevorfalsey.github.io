@@ -1,1 +1,14 @@
-style.css
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	text-align: center;
+	color: purple;
+}
+
+img {
+	height: 150px;
+	width: 150px;
+}
