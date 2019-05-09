@@ -1,0 +1,89 @@
+h2 {
+	font-family: 'Indie Flower', cursive;
+
+}
+
+.hero {
+	width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    background-image: url(https://static1.squarespace.com/static/57ca4e74579fb377696f3c99/t/5995158ba5790affcae9e40a/1502942610375/jamiezeccola5.jpg?format=2500w);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+body {
+	background-color: mistyrose;
+	margin: 0;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+.dab1 
+	{
+		height: 500px;
+		width: 400px;
+		max-width: 100%;
+		float: left;
+		padding: 10px;
+		margin-right: 15px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+.jamie
+	{
+		height: 350px;
+		width: 375px;
+		max-width: 100%;
+		float: right;
+		padding: 10px;
+		margin-left: 15px;
+		margin-bottom: 10px;
+	}
+
+blockquote {
+	font-size: 35px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.txt1 {
+	text-align: right;
+	padding-right: 100px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+
+}
+link: {
+	color: blue;
+}
+a:hover {
+text-decoration: underline;
+text-decoration-style: wavy;
+}
+
+a:visited {
+	color: red;
+}
+
+img:hover {
+
+	-moz-box-shadow: 0 0 10px #ccc;
+	-webkit-box-shadow: 0 0 10px #ccc;
+	box-shadow: 0 0 10px #ccc;
+}
+
+
